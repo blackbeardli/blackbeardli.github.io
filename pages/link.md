@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: 兄弟会
 tagline: My friends.
 permalink: /links.html
 ---
