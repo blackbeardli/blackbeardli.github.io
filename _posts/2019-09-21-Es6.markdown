@@ -2,7 +2,7 @@
 layout: post
 title:  "Es6"
 tags: Hydrogen
-stickie: true
+
 ---
 
 ## let 和 const

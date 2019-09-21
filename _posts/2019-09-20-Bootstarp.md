@@ -2,7 +2,6 @@
 layout: post
 title:  "Bootstarp"
 tags: Hydrogen
-stickie: true
 ---
 
 

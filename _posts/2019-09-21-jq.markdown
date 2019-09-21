@@ -2,7 +2,7 @@
 layout: post
 title:  "jq"
 tags: Hydrogen
-stickie: true
+
 ---
 
 ### 内容选择器：

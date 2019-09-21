@@ -2,7 +2,7 @@
 layout: post
 title:  "react"
 tags: Hydrogen
-stickie: true
+
 ---
 
 ### react是一个js mvc框架，也可以理解为一个js 视图库

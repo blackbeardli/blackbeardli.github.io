@@ -2,7 +2,7 @@
 layout: post
 title:  "sass"
 tags: Hydrogen
-stickie: true
+
 ---
 
 #### 1.定义变量 $  如：$ $ hight-color:red   

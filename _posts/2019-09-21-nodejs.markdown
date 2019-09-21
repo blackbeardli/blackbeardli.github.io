@@ -2,7 +2,7 @@
 layout: post
 title:  "nodejs"
 tags: Hydrogen
-stickie: true
+
 ---
 
 #### 1.nodejs是什么：是一个在后端运行js代码的运行环境。npm是nodejs的包管理工具。

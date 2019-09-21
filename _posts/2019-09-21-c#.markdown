@@ -2,7 +2,6 @@
 layout: post
 title:  "C#"
 tags: Hydrogen
-stickie: true
 ---
 
 ### 1.  c语言是什么？C语言就是一种被开发出来让人类和计算机交互的方式。

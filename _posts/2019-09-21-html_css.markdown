@@ -2,7 +2,7 @@
 layout: post
 title:  "html_css"
 tags: Hydrogen
-stickie: true
+
 ---
 
 ## html

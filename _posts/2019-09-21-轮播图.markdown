@@ -2,7 +2,7 @@
 layout: post
 title:  "轮播图"
 tags: Hydrogen
-stickie: true
+
 ---
 
 ### 课题一：轮播图，轮播图基本存在与每一个网页，以一个自动轮播的形式给用户展示一些这些网站的独特信息。
