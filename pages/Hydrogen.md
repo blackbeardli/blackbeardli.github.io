@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Billboard
-tagline: Biu~
+title: 程序员
+tagline: 程序猿加油
 ---
 
 <div style="text-align:center">:shit:nothing...</div>
