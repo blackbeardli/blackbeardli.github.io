@@ -2,6 +2,7 @@ title: 兄弟会-李源的博客 #博客标题
 description: Just 4 Fun. #博客描述
 keywords: blog,css,html,php #博客关键字
 author: "Ly"
+url: "https://blackbeardli.github.io/"
 
 #title hide and show
 hide: (つェ⊂)我藏好啦
@@ -30,6 +31,7 @@ hydrogen-blog:
 MathJax: false
 
 #install emoji
+markdown: redcarpet
 plugins:
   - jemoji
 
