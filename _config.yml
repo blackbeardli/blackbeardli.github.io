@@ -33,12 +33,11 @@ markdown: redcarpet
 theme: jekyll-swiss
 plugins:
   - jekyll-feed
-paginate: 3
 
 # Site settings
 title: "兄弟会-李源"
 description: "Do not go gentle into that good night..."
-baseurl: ""
+baseurl: "fire"
 url: "https://blackbeardli.github.io/"
 
 # Exclude from processing.
