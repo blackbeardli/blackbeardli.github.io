@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "C#"
-date:   2019-09-21 09:11:32 +0800
-categories: jekyll update
+tags: Hydrogen
+stickie: true
 ---
 
 ### 1.  c语言是什么？C语言就是一种被开发出来让人类和计算机交互的方式。
