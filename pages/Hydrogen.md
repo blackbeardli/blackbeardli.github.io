@@ -6,4 +6,4 @@ tagline: 程序猿加油
 
 <div style="text-align:center">:shit:nothing...</div>
 
-[返回主页]({{ site.url }})
+[返回主页](/)
