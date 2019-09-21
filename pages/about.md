@@ -12,7 +12,7 @@ permalink: /about.html
 
 QQ: 1316341442
 
-Email: <a href="mailto:lk@atlinker.cn">lk@atlinker.cn</a>
+Email: <a href="mailto:ly@atlinker.cn">ly@atlinker.cn</a>
 
 Github: [blackbeardli](https://github.com/blackbeardli)
 
