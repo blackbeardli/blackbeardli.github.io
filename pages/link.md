@@ -13,7 +13,7 @@ permalink: /links.html
 </div>
 {% endfor %}
 
-[返回主页](//blackbeardli.github.io)
+[返回主页](/)
 
 <hr/>
 
