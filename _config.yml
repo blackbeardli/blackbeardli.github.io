@@ -31,7 +31,7 @@ hydrogen-blog:
 MathJax: false
 
 #install emoji
-markdown: redcarpet
+
 plugins:
   - jemoji
 
